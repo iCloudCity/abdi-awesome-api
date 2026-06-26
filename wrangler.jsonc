@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "abdi-awesome-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "admin-db",
+			"database_id": "6232965d-9ea9-43f9-8962-f16e40f99777"
+		}
+	]
+}
